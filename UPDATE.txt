@@ -1,4 +1,11 @@
 
+V0.0.2: Use Scapy to capture/sniff packets from the netcard
+
+1. Add main_scapy_pv.py, which uses Scapy to sniff packets
+2. Use nonlocal in nested functions.
+3. Save the captured packets as pcap instead of pkl.
+
+
 V0.0.1: Init commit-A Python library for Packet Visualization (PV) in real time.
 
 1. Create necessary txt files
