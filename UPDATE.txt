@@ -1,0 +1,6 @@
+
+V0.0.1: Init commit-A Python library for Packet Visualization (PV) in real time.
+
+1. Create necessary txt files
+2. Set up environment (e.g., install requirement.txt).
+3. Use pickle to save packets as pkl

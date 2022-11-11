@@ -1,0 +1,12 @@
+./sysconfig.txt
+.idea
+/pv/datasets/MNIST/mnist/
+
+/**/*.pyc
+*.pyc
+/pv/datasets/__pycache__/*
+.DS_Store
+/**/.DS_Store
+/parametric_tsne_pytorch/
+/Parametric t-SNE/
+/pv/out/*
